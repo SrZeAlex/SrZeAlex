@@ -14,7 +14,7 @@ Here, I’m getting hands-on experience in **software engineering and AI/ML proj
 
 ## 🛠️ My toolbox
 - **Languages:** C/C++, MATLAB, SQL, Python
-- **Frameworks & Tools:** TensorFlow, PyTorch, scikit-learn, Git, Docker  
+- **Frameworks & Tools:** TensorFlow, PyTorch, scikit-learn, Git  
 - **Databases:** PostgreSQL, MySQL  
 - **Other things I play with:** CUDA, LaTeX, Agile  
 
