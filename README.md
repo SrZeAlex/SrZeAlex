@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there I'm José👋
 
 🔭 I’m currently working on Coimbra at The LOOP
 
