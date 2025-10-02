@@ -1,7 +1,9 @@
 ## Hi there 👋
 
 🔭 I’m currently working on Coimbra at The LOOP
+
 🌱 I’m currently learning at LOOP Academy Future Skills
+
 📫 How to reach me: www.linkedin.com/in/srzealex
       
 
