@@ -22,6 +22,7 @@ Here, I’m getting hands-on experience in **software engineering and AI/ML proj
 
 ## 🌍 Let’s connect
 - 💼 [LinkedIn](https://linkedin.com/in/srzealex)  
+<!-- - 📫 How to reach me... -->
 
 ---
 
